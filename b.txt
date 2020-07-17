@@ -1,2 +1,4 @@
 inti b
-add
+add 2 a:sa  
+
+add 2
